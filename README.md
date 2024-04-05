@@ -6,4 +6,6 @@
 说正经点，根据courseid和classid查到activity_list中的activityid，接着能查到相应的UUID和BBSID，替换参数就行了。关键点就是无意中查到的网址(反复强调)
 
 ### 下载链接:
-https://wwp.lanzoup.com/iLRFE1tx9lze  提取码 : 4gb2
+
+https://pan.baidu.com/s/18apDYXTKJMF7hJpo0RDm6Q 
+提取码:2i69
